@@ -31,3 +31,7 @@ The Team started by loading the csv files into pandas after importing the necess
 A synopsis of the project procedure is the processing of data sets and creation of new features. 
 Then in merging the data, we checked the dimensions of the data and summary statistics of the numerical columns.New features were created and encoded.A model was then created by preparing the target variable created to binary variable to indicate peak periods. 
 Training the linear model on the training set is required. Afterwards, we predicted using the linear regression models on the test data. Lastly the performance of the combined model was evaluated.
+
+
+This is an Article on the project 
+https://medium.com/@florentia.teye/time-series-analysis-of-corporation-favorita-3ca5da011d37?postPublishedType=initial
