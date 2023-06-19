@@ -38,3 +38,18 @@ Training the linear model on the training set is required. Afterwards, we predic
 
 This is an Article on the project 
 https://medium.com/@florentia.teye/time-series-analysis-of-corporation-favorita-3ca5da011d37?postPublishedType=initial
+
+
+ ## Author
+ Name: Florentia Teye
+
+GitHub: [https://github.com/flokabukie)
+
+LinkedIn: Florentia Teye
+
+Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
+
+ ![image](signature.png)
+
+
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
